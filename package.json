@@ -1,15 +1,15 @@
 {
-  "name": "ssconvert-wrapper",
-  "version": "0.0.3",
+  "name": "ssconvert-wrapper-sync",
+  "version": "1.0.0",
   "description": "A small wrapper around ssconvert for node.js",
   "main": "lib/main.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/asessa/ssconvert-wrapper"
+    "url": "git://github.com/sumeet-singh04/ssconvert-wrapper"
   },
-  "author": "Andrea Sessa <andrea.sessa@gmail.com>",
+  "author": "Sumeet Singh <sumeet_singh871@yahoo.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/asessa/ssconvert-wrapper/issues"
+    "url": "https://github.com/sumeet-singh04/ssconvert-wrapper/issues"
   }
 }
